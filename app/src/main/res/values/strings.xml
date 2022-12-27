@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SAARTHI</string>
+    <string name="navigation_open">Open Navigation drawer</string>
+    <string name="navigation_close">Close Navigation drawer</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="regbtn">Register</string>
+    <string name="existinguser">Existing user?</string>
+    <string-array name="court_levels">
+        <item>Supreme Court</item>
+        <item>High Court</item>
+        <item>District Court</item>
+        <item>Magistrate Court</item>
+    </string-array>
+    <string-array name="crimes">
+        <item>0. Arson</item>
+        <item>1. Assault</item>
+        <item>2. Burglary</item>
+        <item>3. Drug Trafficking</item>
+        <item>4. Fraud</item>
+        <item>5. Kidnapping</item>
+        <item>6. Murder</item>
+        <item>7. Robbery</item>
+        <item>8. Shop Lifting</item>
+        <item>9. Theft</item>
+        <item>10. Vandalism</item>
+    </string-array>
+
+</resources>

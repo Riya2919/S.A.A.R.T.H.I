@@ -8,12 +8,7 @@ We have created an Android App that manages all court related work for the layme
 <br>
 * Home page </br>
 -------------------------------------------
-![Screenshot 2023-05-20 211445](https://github.com/Riya2919/S.A.A.R.T.H.I/assets/96763019/3ef37286-81e7-4f6a-bd65-29856535f11f)
-
--------------------------------------------
-* Login page for police <br>
--------------------------------------------
-![Screenshot 2023-05-20 211829](https://github.com/Riya2919/S.A.A.R.T.H.I/assets/96763019/ced87044-66ee-4970-a9cd-0b12d5bc5194)
+![Screenshot 2023-05-20 211445](https://github.com/Riya2919/S.A.A.R.T.H.I/assets/96763019/3ef37286-81e7-4f6a-bd65-29856535f11f)<br>
 
 -------------------------------------------
 Helps Police with features like: <br>

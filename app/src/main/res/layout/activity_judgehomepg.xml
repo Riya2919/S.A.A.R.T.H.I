@@ -31,7 +31,11 @@
     />
 
     <ImageView
+<<<<<<< HEAD
         android:id="@+id/back7"
+=======
+        android:id="@+id/imageView14"
+>>>>>>> 9c8ec8621c8e73b451df7a6fa3a3a3ab47af1663
         android:layout_width="25dp"
         android:layout_height="34dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -68,7 +72,11 @@
         app:layout_constraintVertical_bias="0.396" />
 
     <ImageView
+<<<<<<< HEAD
         android:id="@+id/criminalhistory"
+=======
+        android:id="@+id/imageView2"
+>>>>>>> 9c8ec8621c8e73b451df7a6fa3a3a3ab47af1663
         android:layout_width="62dp"
         android:layout_height="62dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -152,7 +160,11 @@
 
 
     <ImageView
+<<<<<<< HEAD
         android:id="@+id/nexthearing"
+=======
+        android:id="@+id/imageView5"
+>>>>>>> 9c8ec8621c8e73b451df7a6fa3a3a3ab47af1663
         android:layout_width="57dp"
         android:layout_height="51dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -193,7 +205,11 @@
 
 
     <ImageView
+<<<<<<< HEAD
         android:id="@+id/caseinfo"
+=======
+        android:id="@+id/imageView6"
+>>>>>>> 9c8ec8621c8e73b451df7a6fa3a3a3ab47af1663
         android:layout_width="57dp"
         android:layout_height="51dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -235,7 +251,11 @@
 
 
     <ImageView
+<<<<<<< HEAD
         android:id="@+id/judgement"
+=======
+        android:id="@+id/imageView7"
+>>>>>>> 9c8ec8621c8e73b451df7a6fa3a3a3ab47af1663
         android:layout_width="57dp"
         android:layout_height="51dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -276,7 +296,11 @@
         app:layout_constraintVertical_bias="0.943" />
 
     <ImageView
+<<<<<<< HEAD
         android:id="@+id/chargeSheetDisplay"
+=======
+        android:id="@+id/imageView8"
+>>>>>>> 9c8ec8621c8e73b451df7a6fa3a3a3ab47af1663
         android:layout_width="74dp"
         android:layout_height="66dp"
         app:layout_constraintBottom_toBottomOf="parent"

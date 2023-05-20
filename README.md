@@ -5,3 +5,12 @@ Problem Statement : In court, litigants present their cases through advocates. T
 <br>
 To address this issue <br>
 We have created an Android App that manages all court related work for the laymen , Judge and Police.
+<br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Helps Police with features like:
+Verification - uploading all the necessry documents through this page.
+Criminal history - this feature would help in accessing if any past history of a criminal exists or not. 
+FIR - they can check the FIR status through this. 
+Case Info - all the case related details will be displayed in this section. 
+Records - this would have the database of the past case details and all the records of the police station, hence removing all the file system and digitalizing everything. 
+Charge sheet - related details will be made available here.

@@ -11,13 +11,14 @@ We have created an Android App that manages all court related work for the layme
 ![Screenshot 2023-05-20 211445](https://github.com/Riya2919/S.A.A.R.T.H.I/assets/96763019/3ef37286-81e7-4f6a-bd65-29856535f11f)<br>
 
 -------------------------------------------
-Helps Police with features like: <br>
+
 Verification - uploading all the necessry documents through this page.<br>
 Criminal history - this feature would help in accessing if any past history of a criminal exists or not. <br>
 FIR - they can check the FIR status through this. <br>
-Case Info - all the case related details will be displayed in this section. <br>
+Case Info - all the case related details will be displayed in this section. <br> 
 Records - this would have the database of the past case details and all the records of the police station, hence removing all the file system and digitalizing everything. <br>
-Charge sheet - related details will be made available here.<br>
+Charge-sheet - it has to be updated by the police. <br>
+
 -------------------------------------------
 * Features for police <br>
 -------------------------------------------

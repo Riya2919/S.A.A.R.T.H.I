@@ -8,7 +8,7 @@ We have created an Android App that manages all court related work for the layme
 <br>
 * Home page </br>
 *-------------------------------------------
-![Screenshot 2023-05-20 211445](https://github.com/Riya2919/S.A.A.R.T.H.I/assets/96763019/3ef37286-81e7-4f6a-bd65-29856535f11f)
+*![Screenshot 2023-05-20 211445](https://github.com/Riya2919/S.A.A.R.T.H.I/assets/96763019/3ef37286-81e7-4f6a-bd65-29856535f11f)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Helps Police with features like: <br>
 Verification - uploading all the necessry documents through this page.<br>

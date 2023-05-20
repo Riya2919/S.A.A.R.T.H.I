@@ -31,7 +31,7 @@
                 />
 
     <ImageView
-        android:id="@+id/imageView14"
+        android:id="@+id/back6"
         android:layout_width="25dp"
         android:layout_height="34dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -68,7 +68,7 @@
         app:layout_constraintVertical_bias="0.396" />
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/docs"
         android:layout_width="50dp"
         android:layout_height="47dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -110,7 +110,7 @@
         app:layout_constraintVertical_bias="0.396" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/PredictCase"
         android:layout_width="63dp"
         android:layout_height="53dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -152,7 +152,7 @@
 
 
     <ImageView
-        android:id="@+id/imageView5"
+        android:id="@+id/hearinginfo"
         android:layout_width="57dp"
         android:layout_height="51dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -193,7 +193,7 @@
 
 
     <ImageView
-        android:id="@+id/imageView6"
+        android:id="@+id/caseinfol"
         android:layout_width="57dp"
         android:layout_height="51dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -235,7 +235,7 @@
 
 
     <ImageView
-        android:id="@+id/imageView7"
+        android:id="@+id/courtorder"
         android:layout_width="57dp"
         android:layout_height="51dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -276,7 +276,7 @@
         app:layout_constraintVertical_bias="0.943" />
 
     <ImageView
-        android:id="@+id/imageView8"
+        android:id="@+id/geninfo"
         android:layout_width="74dp"
         android:layout_height="66dp"
         app:layout_constraintBottom_toBottomOf="parent"

@@ -59,7 +59,7 @@
         app:layout_constraintVertical_bias="0.395" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName4"
+        android:id="@+id/pemail"
         android:layout_width="272dp"
         android:layout_height="77dp"
         android:layout_gravity="center"
@@ -70,12 +70,13 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.577" />
+        app:layout_constraintVertical_bias="0.578" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName5"
+        android:id="@+id/ppass"
         android:layout_width="274dp"
         android:layout_height="78dp"
         android:layout_gravity="center"

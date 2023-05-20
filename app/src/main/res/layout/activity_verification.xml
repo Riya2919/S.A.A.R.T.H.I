@@ -1,0 +1,190 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="File a Case"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <!-- FIR PDF -->
+    <TextView
+        android:id="@+id/firTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/titleTextView"
+        android:text="FIR PDF" />
+
+    <Button
+        android:id="@+id/firButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/firTextView"
+        android:text="Upload FIR PDF"
+        android:padding="15dp"
+        android:background="@drawable/roundbutton"
+        android:textColor="@color/white"
+
+        />
+
+    <!-- Identity Proof Image -->
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/identityProofTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/firButton"
+        android:text="Identity Proof Image"
+        />
+
+    <Button
+        android:id="@+id/identityProofButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_below="@id/identityProofTextView"
+        android:text="Upload Identity Proof Image"
+        android:background="@drawable/roundbutton"
+        android:textColor="@color/white"/>
+
+    <!-- Address Proof PDF -->
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/addressProofTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/identityProofButton"
+        android:text="Address Proof PDF" />
+
+    <Button
+        android:id="@+id/addressProofButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_below="@id/addressProofTextView"
+        android:text="Upload Address Proof PDF"
+        android:background="@drawable/roundbutton"
+        android:textColor="@color/white"/>
+
+    <!-- Supporting Evidence PDF -->
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/supportingEvidenceTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/addressProofButton"
+        android:text="Supporting Evidence PDF" />
+
+    <Button
+        android:id="@+id/supportingEvidenceButton"
+        android:layout_width="wrap_content"
+        android:padding="15dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/supportingEvidenceTextView"
+        android:text="Upload Supporting Evidence PDF"
+        android:background="@drawable/roundbutton"
+        android:textColor="@color/white"/>
+
+    <!-- Witness Statement PDF -->
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/witnessStatementTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/supportingEvidenceButton"
+        android:text="Witness Statement PDF" />
+
+    <Button
+        android:id="@+id/witnessStatementButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_below="@id/witnessStatementTextView"
+        android:text="Upload Witness Statement PDF"
+        android:background="@drawable/roundbutton"
+        android:textColor="@color/white"/>
+
+    <!-- Medical Reports -->
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/medicalReportsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/witnessStatementButton"
+        android:text="Medical Reports" />
+
+    <Button
+        android:id="@+id/medicalReportsButton"
+        android:layout_width="wrap_content"
+        android:padding="15dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/medicalReportsTextView"
+        android:text="Upload Medical Reports"
+        android:background="@drawable/roundbutton"
+        android:textColor="@color/white"/>
+
+    <!-- Financial Document PDF -->
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/financialDocumentTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/medicalReportsButton"
+        android:text="Financial Document PDF" />
+
+    <Button
+        android:id="@+id/financialDocumentButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:layout_below="@id/financialDocumentTextView"
+        android:text="Upload Financial Document PDF"
+        android:background="@drawable/roundbutton"
+        android:textColor="@color/white"
+        android:layout_marginBottom="25dp"/>
+
+    <!-- Relevant Documents -->
+<!--    <TextView-->
+<!--        android:paddingTop="10dp"-->
+<!--        android:id="@+id/relevantDocumentsTextView"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@id/financialDocumentButton"-->
+<!--        android:text="Relevant Documents" />-->
+
+<!--    <EditText-->
+<!--        android:id="@+id/relevantDocumentsEditText"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:layout_below="@id/relevantDocumentsTextView"-->
+<!--        android:hint="Enter relevant documents"-->
+<!--        android:inputType="textMultiLine"-->
+<!--        android:lines="3" />-->
+
+    <!-- Submit Button -->
+    <Button
+        android:id="@+id/backButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/financialDocumentButton"
+        android:layout_centerHorizontal="true"
+        android:text="Back"
+        android:background="@drawable/roundbutton"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/financialDocumentButton"
+        android:layout_marginTop="-1dp"
+        android:background="@drawable/roundbutton"
+        android:text="Submit"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

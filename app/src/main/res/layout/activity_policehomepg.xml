@@ -32,7 +32,7 @@
                 />
 
       <ImageView
-          android:id="@+id/imageView14"
+          android:id="@+id/back10"
           android:layout_width="25dp"
           android:layout_height="34dp"
           app:layout_constraintBottom_toBottomOf="parent"
@@ -69,7 +69,7 @@
           app:layout_constraintVertical_bias="0.396" />
 
       <ImageView
-          android:id="@+id/imageView2"
+          android:id="@+id/verification"
           android:layout_width="62dp"
           android:layout_height="62dp"
           app:layout_constraintBottom_toBottomOf="parent"
@@ -111,7 +111,7 @@
           app:layout_constraintVertical_bias="0.396" />
 
       <ImageView
-          android:id="@+id/imageView3"
+          android:id="@+id/pcriminalhistory"
           android:layout_width="49dp"
           android:layout_height="41dp"
           app:layout_constraintBottom_toBottomOf="parent"
@@ -195,7 +195,7 @@
 
 
       <ImageView
-          android:id="@+id/imageView6"
+          android:id="@+id/pcaseinfo"
           android:layout_width="57dp"
           android:layout_height="51dp"
           app:layout_constraintBottom_toBottomOf="parent"
@@ -237,7 +237,7 @@
 
 
       <ImageView
-          android:id="@+id/imageView7"
+          android:id="@+id/records"
           android:layout_width="60dp"
           android:layout_height="55dp"
           android:paddingLeft="15dp"
@@ -251,7 +251,7 @@
 
 
       <TextView
-          android:id="@+id/editTextTextPersonName10"
+          android:id="@+id/recordsT"
           android:layout_width="123dp"
           android:layout_height="44dp"
           android:backgroundTint="@android:color/transparent"
@@ -279,7 +279,7 @@
           app:layout_constraintVertical_bias="0.943" />
 
       <ImageView
-          android:id="@+id/imageView8"
+          android:id="@+id/chargeSheet"
           android:layout_width="74dp"
           android:layout_height="66dp"
           app:layout_constraintBottom_toBottomOf="parent"
@@ -291,7 +291,7 @@
           app:srcCompat="@drawable/icon_true_document_true_232814486_removebg_preview"></ImageView>
 
       <TextView
-          android:id="@+id/editTextTextPersonName11"
+          android:id="@+id/chargeSheetT"
           android:layout_width="123dp"
           android:layout_height="44dp"
           android:backgroundTint="@android:color/transparent"

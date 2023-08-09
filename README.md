@@ -1,4 +1,5 @@
-![image](https://github.com/Riya2919/S.A.A.R.T.H.I/assets/96763019/86544dd2-5520-43eb-b13c-167aeb4b89ca)# S.A.A.R.T.H.I
+# S.A.A.R.T.H.I
+![image](https://github.com/Riya2919/S.A.A.R.T.H.I/assets/96763019/86544dd2-5520-43eb-b13c-167aeb4b89ca)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Problem Statement : In court, litigants present their cases through advocates. They frequently have to travel to different locations where court processes are taking place. They are unable to obtain information on what has occurred in the courts and what papers have been placed before the court by the opposing parties, forcing them to rely on the advocates. If the advocate is not ethically and morally proper, clients will be dominated or tricked by them since they will be unable to contact other advocates who actually want to aid them.Court records are only available after making an application for certified copies, which takes 15 to 20 days, which leads in delays in justice and many adjournments in the issue, which eventually increases the pendency of proceedings before the court.
 <br>
@@ -64,8 +65,6 @@ Charge-sheet - it has to be updated by the police. <br>
   Laymen can predict the duration for their case getting solved by the use of this machine learning model. It has ben been built over the pre-existing data about 
   the tenure taken by a particular type of case getting resolved. </br>
 -------------------------------------------
-  Laymen can predict the duration for their case getting solved by the use of this machine learning model. It has ben been built over the pre-existing data about 
-  the tenure taken by a particular type of case getting resolved. </br>
 ![image](https://github.com/Riya2919/S.A.A.R.T.H.I/assets/96763019/3eb08117-a6c5-4b10-88ba-68774722e89b)
 
 -------------------------------------------
